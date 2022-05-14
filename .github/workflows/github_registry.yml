@@ -70,5 +70,5 @@ jobs:
           registry: ghcr.io
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
-          tags: ghcr.io/<username>/simplewhale:latest
+          tags: ghcr.io/sandinipitawala/simplewhale:latest
           
